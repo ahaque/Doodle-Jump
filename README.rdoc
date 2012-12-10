@@ -2,8 +2,11 @@
 Albert Haque, July 2012
 
 == Overview
-The popular Doodle Jump, ported to PC. Written in Java.
+The popular iPhone game, Doodle Jump, ported to PC. Written in Java.
 
 == Screenshots
 http://s10.postimage.org/3y9ibw5sp/afsfa.png
+
 http://s10.postimage.org/5pawwcgux/doodle.png
+
+http://s12.postimage.org/f6x4r8cd/afssfafdssf.png
