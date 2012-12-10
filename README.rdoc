@@ -1,7 +1,9 @@
 = Doodle Jump
-Albert Haque
+Albert Haque, July 2012
 
 == Overview
-Doodle jump the game.
+The popular Doodle Jump, ported to PC. Written in Java.
 
-Live game link: (being uplodaded as of Dec 9, 2012)
+== Screenshots
+http://s10.postimage.org/3y9ibw5sp/afsfa.png
+http://s10.postimage.org/5rcf0zqzd/doodle.png
